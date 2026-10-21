@@ -1,0 +1,7 @@
+anomalib==2.6.0
+torch>=2.3
+torchvision>=0.18
+numpy>=1.24,<3
+scikit-learn>=1.4
+Pillow>=10.0
+tqdm>=4.66
